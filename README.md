@@ -9,4 +9,3 @@
 - 👯 I’m looking to collaborate on simple project in Python as i advance...
 - 🤔 I’m looking for help with Material on Cloud computing.
 - 📫 How to reach me: mwaivictor07@gmail.com or @mwaivictor7 on twitter
-
