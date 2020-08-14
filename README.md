@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 ✨ ✨Am victor Mwai ✨ ✨
 
 - 🔭 I’m currently working on my own personal Portfolio and a Hospital website
